@@ -5,8 +5,8 @@
 ### GitHub Stats
 <table>
   <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nexla-ia&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexla-ia&layout=compact&langs_count=7&theme=radical" /></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nexla-ia&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" /></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexla-ia&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" /></td>
   </tr>
 </table>
 

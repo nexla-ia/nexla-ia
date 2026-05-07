@@ -10,6 +10,12 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nexla-ia&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexla-ia/nexla-ia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexla-ia/nexla-ia/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/nexla-ia/nexla-ia/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### Contact
 <div> 
   <a href="https://www.linkedin.com/in/nexla_ia-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
